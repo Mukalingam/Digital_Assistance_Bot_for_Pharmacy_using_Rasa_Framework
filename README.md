@@ -34,4 +34,4 @@ In the data preparation folder there will a code for preparring the data and the
 * request
 * beautiful soup
 
-## Once the complete bot is ready we can integrate the same same with our website using the config file.
+## Once the complete bot is ready we can integrate the same with our website using the config file.
