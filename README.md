@@ -7,7 +7,7 @@ The goal of this project is to create a digitalized chatbot for the pharmacist s
 
 ![Project Architecture](https://user-images.githubusercontent.com/86455215/144393884-0b3dbb0f-2d33-45f3-b1ac-e171a66c85e9.png)
 
-##Data Collection
+## Data Collection
 The commplete data collection for the bot is done by using the web scraping concept. We have taken the [1MG website](https://www.1mg.com/drugs-listaz) for our data collection where we have collected all the information of the medicines using request, Beautiful Soup, Scrapy libraries for scrapping the data of 1mg Website.  
 
 ## Data Preparation for rasa chatbot
