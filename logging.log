@@ -1,0 +1,3 @@
+21:52:24,334 rasa_sdk.executor INFO Registered function for 'action_diagnose_symptoms'.
+21:52:24,335 rasa_sdk.endpoint INFO Action endpoint is up and running on http://0.0.0.0:5055
+21:52:24,336 rasa_sdk.utils DEBUG Using the default number of Sanic workers (1).
